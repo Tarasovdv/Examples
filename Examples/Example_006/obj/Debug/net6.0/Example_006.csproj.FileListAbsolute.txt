@@ -1,0 +1,15 @@
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\bin\Debug\net6.0\Example_006.exe
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\bin\Debug\net6.0\Example_006.deps.json
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\bin\Debug\net6.0\Example_006.runtimeconfig.json
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\bin\Debug\net6.0\Example_006.dll
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\bin\Debug\net6.0\Example_006.pdb
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\obj\Debug\net6.0\Example_006.csproj.AssemblyReference.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\obj\Debug\net6.0\Example_006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\obj\Debug\net6.0\Example_006.AssemblyInfoInputs.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\obj\Debug\net6.0\Example_006.AssemblyInfo.cs
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\obj\Debug\net6.0\Example_006.csproj.CoreCompileInputs.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\obj\Debug\net6.0\Example_006.dll
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\obj\Debug\net6.0\refint\Example_006.dll
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\obj\Debug\net6.0\Example_006.pdb
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\obj\Debug\net6.0\Example_006.genruntimeconfig.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_006\obj\Debug\net6.0\ref\Example_006.dll
