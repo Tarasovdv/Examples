@@ -1,0 +1,15 @@
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\bin\Debug\net6.0\Example_009_IntroArray.exe
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\bin\Debug\net6.0\Example_009_IntroArray.deps.json
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\bin\Debug\net6.0\Example_009_IntroArray.runtimeconfig.json
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\bin\Debug\net6.0\Example_009_IntroArray.dll
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\bin\Debug\net6.0\Example_009_IntroArray.pdb
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\obj\Debug\net6.0\Example_009_IntroArray.csproj.AssemblyReference.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\obj\Debug\net6.0\Example_009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\obj\Debug\net6.0\Example_009_IntroArray.AssemblyInfoInputs.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\obj\Debug\net6.0\Example_009_IntroArray.AssemblyInfo.cs
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\obj\Debug\net6.0\Example_009_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\obj\Debug\net6.0\Example_009_IntroArray.dll
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\obj\Debug\net6.0\refint\Example_009_IntroArray.dll
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\obj\Debug\net6.0\Example_009_IntroArray.pdb
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\obj\Debug\net6.0\Example_009_IntroArray.genruntimeconfig.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_009_IntroArray\obj\Debug\net6.0\ref\Example_009_IntroArray.dll
