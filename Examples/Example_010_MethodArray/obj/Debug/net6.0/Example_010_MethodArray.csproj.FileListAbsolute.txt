@@ -1,0 +1,15 @@
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\bin\Debug\net6.0\Example_010_MethodArray.exe
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\bin\Debug\net6.0\Example_010_MethodArray.deps.json
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\bin\Debug\net6.0\Example_010_MethodArray.runtimeconfig.json
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\bin\Debug\net6.0\Example_010_MethodArray.dll
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\bin\Debug\net6.0\Example_010_MethodArray.pdb
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.AssemblyInfo.cs
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.dll
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\obj\Debug\net6.0\refint\Example_010_MethodArray.dll
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.pdb
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.genruntimeconfig.cache
+C:\Users\Тарасов Дмитрий\Desktop\Дмитрий\личное\Программирование\GB\Lecture\C#\Examples\Example_010_MethodArray\obj\Debug\net6.0\ref\Example_010_MethodArray.dll
